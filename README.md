@@ -8,6 +8,7 @@ Kaggle code replication to improve my data science skills
 - [Introduction to Ensembling/Stacking in Python](./titanic-04.ipynb)
 ## [Porto Seguro’s Safe Driver Prediction](https://www.kaggle.com/competitions/porto-seguro-safe-driver-prediction)
 - [Data Preparation & Exploration](./safedriver-01.ipynb)
+- [Interactive Porto Insights - A Plot.ly Tutorial](./safedriver-02.ipynb)
 ## Reference
 - https://modulabs.co.kr/blog/data-science-kaggle/
 - https://kaggle-kr.tistory.com/32
